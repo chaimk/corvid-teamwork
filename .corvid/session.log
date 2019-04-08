@@ -1,18 +1,15 @@
-{"message":"server starting at [.]","level":"info","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:19:55.909Z"}
-{"message":"watching for file changes at [.]","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:19:55.913Z"}
-{"message":"server listening at editor port [5000], admin port [3000]","level":"info","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:19:55.970Z"}
-{"message":"admin connected","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:19:55.989Z"}
-{"message":"editor connected","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:01.910Z"}
-{"message":"site document requested","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:01.928Z"}
-{"message":"code files requested","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:02.939Z"}
-{"message":"updating local site document","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:06.659Z"}
-{"message":"updating local code files","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:06.671Z"}
-{"message":"updating local site document done","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:06.687Z"}
-{"message":"updating local code files done","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:06.688Z"}
-{"message":"updating local site document","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:22.255Z"}
-{"message":"updating local site document done","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:22.262Z"}
-{"message":"updating local code files","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:22.352Z"}
-{"message":"updating local code files done","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:22.353Z"}
-{"message":"server closing","level":"info","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:31.471Z"}
-{"message":"editor disconnected","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:31.473Z"}
-{"message":"admin disconnected","level":"verbose","sessionId":"e956cb35-79e1-43d2-90c7-e53b20ae2b1b","timestamp":"2019-04-08T11:20:31.474Z"}
+{"message":"server starting at [.]","level":"info","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:36.378Z"}
+{"message":"watching for file changes at [.]","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:36.383Z"}
+{"message":"server listening at editor port [5000], admin port [3000]","level":"info","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:36.431Z"}
+{"message":"admin connected","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:36.449Z"}
+{"message":"editor connected","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:42.509Z"}
+{"message":"site document requested","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:42.571Z"}
+{"message":"code files requested","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:43.596Z"}
+{"message":"updating local site document","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:47.159Z"}
+{"message":"updating local code files","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:47.172Z"}
+{"message":"updating local site document done","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:47.188Z"}
+{"message":"updating local code files done","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:27:47.190Z"}
+{"message":"updating local site document","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:28:20.247Z"}
+{"message":"updating local site document done","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:28:20.255Z"}
+{"message":"updating local code files","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:28:20.386Z"}
+{"message":"updating local code files done","level":"verbose","sessionId":"dc7dee02-a9c5-4156-8318-3ada2d275b31","timestamp":"2019-04-08T11:28:20.387Z"}
